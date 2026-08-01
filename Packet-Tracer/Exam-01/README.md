@@ -1,50 +1,84 @@
-# 📝 Exam 01 - Enterprise Network
+# 📝 Exam 01 - Multi-Branch Enterprise Network
 
-This folder contains my first practical networking exam completed during the **Support, Networking and Cybersecurity Course**.
+## 📖 Description
 
-## 🎯 Objective
+This project was completed as part of a practical networking assessment.
 
-Design and configure a small enterprise network in Cisco Packet Tracer that allows communication between three branch offices using static routing.
+The objective was to design and configure an enterprise network connecting three different branches using Cisco Packet Tracer. The project includes routers, switches, wireless networks, static routing, and connectivity verification.
 
-## 📚 Skills Practiced
+---
 
-- IPv4 Addressing
-- Router configuration
-- Switch configuration
-- Static Routing
-- Wireless Networks
-- Network Verification
-- Connectivity Testing (Ping)
+## 🎯 Objectives
 
-## 📁 Files
+- Design a three-branch enterprise network.
+- Configure IP addressing.
+- Configure routers and switches.
+- Configure wireless networks.
+- Implement static routing.
+- Verify end-to-end connectivity.
 
-- 📄 Enterprise_Network_Exam.pdf
-- 💻 Enterprise_Network_Exam.pkt
+---
 
 ## 🛠 Technologies
 
 - Cisco Packet Tracer
-- Cisco IOS
+- Cisco Router 2911
+- Cisco Switches
+- Wireless Access Points
+- IPv4
 - Static Routing
-- IPv4 Networking
-
-## ✅ What I Learned
-
-During this exam I practiced:
-
-- Configuring routers and switches.
-- Assigning IPv4 addresses.
-- Creating static routes.
-- Configuring wireless access points.
-- Verifying connectivity using the `ping` command.
-- Troubleshooting basic network communication.
-
-## 📌 Result
-
-The network achieved successful communication between all three branch offices after configuring the routers, wireless networks, and static routes correctly.
+- DHCP
+- WPA2 Wireless Security
 
 ---
 
-📅 Completed: July 2026
+## 🌐 Network Overview
 
-🎓 Program: Support, Networking and Cybersecurity
+The network includes three enterprise branches:
+
+- 🏢 Central Branch
+- 🏢 North Branch
+- 🏢 South Branch
+
+Each branch contains:
+
+- Router
+- Switch
+- PCs
+- Wireless Access Point
+- Wireless Laptop
+
+The branches communicate through static routes configured between routers.
+
+---
+
+## 📂 Files
+
+- 📄 Project Report (PDF)
+- 📦 Cisco Packet Tracer (.pkt)
+
+---
+
+## 📚 Skills Practiced
+
+- Enterprise network design
+- IPv4 addressing
+- Router configuration
+- Switch configuration
+- Wireless networking
+- Static routing
+- Connectivity testing
+- Network troubleshooting
+- Technical documentation
+
+---
+
+## ✅ Results
+
+The network achieved successful communication between all three branches after configuring static routes and verifying connectivity using ping tests.
+
+---
+
+## 🏁 Status
+
+✔ Completed
