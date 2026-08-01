@@ -1,45 +1,47 @@
-# 🏢 Enterprise Network Lab
+# 🌐 Enterprise Network Lab 01
 
 ## Description
 
-This lab consists of designing and configuring an enterprise network using Cisco Packet Tracer.
+This lab was created in Cisco Packet Tracer as part of my networking practice.
 
-The project was completed as part of my networking training.
-
----
-
-## Skills Practiced
-
-- IPv4 Addressing
-- Router Configuration
-- Switch Configuration
-- Static Routing
-- Wireless Networking
-- Connectivity Testing
-- Cisco IOS CLI
+The objective was to design and configure a small enterprise network using multiple VLANs, routing, switching, wireless connectivity, and network services.
 
 ---
 
-## Files Included
+## Technologies
 
-- 📦 Cisco Packet Tracer project (.pkt)
-- 🖼️ Network topology diagram
-  
----
-
-## What I Learned
-
-During this lab I learned how to:
-
-- Design an enterprise network.
-- Configure routers and switches.
-- Assign IPv4 addresses.
-- Configure static routing.
-- Verify network connectivity.
-- Document the network design.
+- Cisco Packet Tracer
+- Router-on-a-Stick
+- VLANs
+- Trunk Links
+- DHCP
+- DNS
+- FTP
+- Web Server
+- Wireless Access Points
+- IPv4
 
 ---
 
-## Status
+## Network Diagram
 
-✅ Completed
+The network topology is included in this folder.
+
+---
+
+## Files
+
+- 📦 Laboratorio 2 del curso de redes.pkt
+- 🖼️ Diagrama_Red_Laboratorio_02.png
+
+---
+
+## What I learned
+
+- VLAN creation
+- Inter-VLAN Routing
+- DHCP configuration
+- Switch trunk configuration
+- Access Point configuration
+- Enterprise network design
+- Network documentation
