@@ -1,43 +1,27 @@
-# 🌐 Networking Labs
+# 🌐 Packet Tracer Labs
 
-Welcome to my networking portfolio.
+Welcome to my Cisco Packet Tracer practice repository.
 
-This repository contains practical networking labs completed during my learning journey through:
-
-- Cisco Networking Academy
-- Mujer Digital Program
-- Personal practice
-- Future networking courses
+This folder contains all my networking labs, practical exercises, and exams completed while studying networking and cybersecurity.
 
 ---
 
-## 🎯 Objective
+## 📚 Contents
 
-This repository documents my Packet Tracer practice while learning networking concepts and preparing for a career in Cybersecurity and Networking.
+Inside this folder you will find:
 
-Every lab includes documentation, screenshots, configurations, and lessons learned.
-
----
-
-## 📚 Learning Topics
-
-This repository will include labs related to:
-
-- Cisco Packet Tracer
-- IPv4 & IPv6
-- VLANs
-- DHCP
-- DNS
-- Static Routing
-- OSPF
-- ACLs
-- NAT
-- Switching
-- Network Troubleshooting
+- 📝 Practical labs
+- 📖 Practical exams
+- 🌐 Enterprise network designs
+- 🔀 Routing and Switching configurations
+- 📡 VLAN implementations
+- 📶 Wireless network configurations
+- 📋 Network documentation
+- 📷 Network topology diagrams
 
 ---
 
-## 📂 Repository Structure
+## 📂 Folder Organization
 
 ```text
 Packet-Tracer/
@@ -50,8 +34,25 @@ Packet-Tracer/
 
 ---
 
-## 📈 Learning Goal
+## 🎯 Objective
 
-My goal is to continuously improve my networking and cybersecurity skills by documenting every practical lab, project, and exercise I complete.
+The purpose of this folder is to document my progress while learning Cisco networking through hands-on practice.
 
-Each new lab represents another step toward becoming a Network and Cybersecurity professional.
+Each lab includes:
+
+- Cisco Packet Tracer file (.pkt)
+- Documentation (when available)
+- Network diagrams
+- Configuration notes
+- Lessons learned
+
+---
+
+## 🚀 Learning Journey
+
+These labs are part of my preparation for a career in:
+
+- Cybersecurity
+- Networking
+- Network Administration
+- Cloud Infrastructure
