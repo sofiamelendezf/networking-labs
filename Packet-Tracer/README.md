@@ -1,6 +1,13 @@
-# 🌐 Packet Tracer Labs
+# 🌐 Networking Labs
 
-Hands-on networking labs created while studying Cisco Networking Academy, Mujer Digital, and other networking courses.
+Welcome to my networking portfolio.
+
+This repository contains practical networking labs completed during my learning journey through:
+
+- Cisco Networking Academy
+- Mujer Digital Program
+- Personal practice
+- Future networking courses
 
 ---
 
@@ -8,9 +15,13 @@ Hands-on networking labs created while studying Cisco Networking Academy, Mujer 
 
 This repository documents my Packet Tracer practice while learning networking concepts and preparing for a career in Cybersecurity and Networking.
 
+Every lab includes documentation, screenshots, configurations, and lessons learned.
+
 ---
 
-## 🛠️ Technologies
+## 📚 Learning Topics
+
+This repository will include labs related to:
 
 - Cisco Packet Tracer
 - IPv4 & IPv6
@@ -28,34 +39,19 @@ This repository documents my Packet Tracer practice while learning networking co
 
 ## 📂 Repository Structure
 
-Each lab will include:
-
-- 📄 README with the objective
-- 🌐 Network topology
-- ⚙️ Device configuration
-- 📸 Screenshots
-- 📝 Notes
-- 💡 Lessons learned
-
----
-
-## 📈 Progress
-
-| Lab | Topic | Status |
-|------|-------|--------|
-| 01 | Basic Router Configuration | ⏳ |
-| 02 | VLAN Configuration | ⏳ |
-| 03 | DHCP | ⏳ |
-| 04 | DNS | ⏳ |
-| 05 | Static Routing | ⏳ |
-| 06 | OSPF | ⏳ |
-| 07 | ACLs | ⏳ |
-| 08 | NAT | ⏳ |
-| 09 | IPv6 | ⏳ |
-| 10 | Troubleshooting | ⏳ |
+```text
+Packet-Tracer/
+├── Exam-01/
+├── Lab-01-Enterprise-Network/
+├── Lab-02/
+├── Lab-03/
+└── More labs...
+```
 
 ---
 
-## 🚀 Goal
+## 📈 Learning Goal
 
-Build a complete networking portfolio by documenting real Packet Tracer labs, configurations, troubleshooting steps, and lessons learned.
+My goal is to continuously improve my networking and cybersecurity skills by documenting every practical lab, project, and exercise I complete.
+
+Each new lab represents another step toward becoming a Network and Cybersecurity professional.
