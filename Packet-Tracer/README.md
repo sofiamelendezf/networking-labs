@@ -26,7 +26,7 @@ Inside this folder you will find:
 ```text
 Packet-Tracer/
 ├── Exam-01/
-├── Lab-01-Enterprise-Network/
+├── Lab-01-/
 ├── Lab-02/
 ├── Lab-03/
 └── More labs...
